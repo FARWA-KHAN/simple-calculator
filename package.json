@@ -1,0 +1,20 @@
+{
+  "name": "simple_calculator_by_farwa",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.cjs",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Farwa Khan",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^20.12.7",
+    "inquirer": "^9.2.19"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
